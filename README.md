@@ -1,11 +1,8 @@
 <table>
 
-  <tr>
-    <th>Personal Statistics</th>
-    <th>Activity</th>
-  </tr>
-        <td>
-  <img align="left" width="390" alt="" src="/obsh.svg">
+  
+<td>
+  <img align="left" width="390" alt="" src="/main.svg">
 
 </td>
     <td>
@@ -15,9 +12,17 @@
 </td>
   
 </table> 
-<table style="width:100%">
+<table>
 
- <td colspan='2'>
-<img align='center' width="" src="/speed.svg" alt="Metrics" >
+  
+<td>
+  <img align="left" width="390" alt="" src="/activ.svg">
+
 </td>
-</table>
+    <td>
+
+  <img align="right" width="440" alt="" src="/language.svg">
+
+</td>
+  
+</table> 
