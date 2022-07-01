@@ -14,7 +14,7 @@
   <img align="left" width="390" alt="" src="/activ.svg">
 </td>
 <td>
-  <img align="right" width="440" alt="" src="/activ.svg">
+  <img align="right" width="440" alt="" src="/language.svg">
 </td>
 </body> 
 </body>
