@@ -1,4 +1,5 @@
 <body>
+<body>
 
 <td>
   <img align="left" width="390" alt="" src="/main.svg">
@@ -16,8 +17,4 @@
   <img align="right" width="440" alt="" src="/activ.svg">
 </td>
 </table> 
-<table style="width:100%">
- <td colspan='2'>
-<img align='center' width="" src="/language.svg" alt="Metrics" >
-</td>
-</table>
+</body>
