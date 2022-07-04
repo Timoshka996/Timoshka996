@@ -1,6 +1,10 @@
 <body>
 <body>
   <table>
+     <tr>
+    <th>Personal Statistics</th>
+    <th>Activity</th>
+  </tr>
 
 <td>
   <img align="left" width="390" alt="" src="/main.svg">
