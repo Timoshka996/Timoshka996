@@ -2,7 +2,7 @@
 <body>
   <table>
      <tr>
-    <tr>Personal statistic<tr>
+    <th>Personal statistic</th>
     <th>Activity</th>
   </tr>
 
