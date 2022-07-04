@@ -9,12 +9,3 @@
 </td> 
 </body> 
 
-<body>
-<td>
-  <img align="left" width="390" alt="" src="/activ.svg">
-</td>
-<td>
-  <img align="right" width="440" alt="" src="/language.svg">
-</td>
-</body> 
-</body>
