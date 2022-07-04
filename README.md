@@ -2,8 +2,8 @@
 <body>
   <table>
      <tr>
-    <th>Osh</th>
-    <th>Activity</th>
+    <th>23.02</th>
+    <th>23.02</th>
   </tr>
 
 <td>
