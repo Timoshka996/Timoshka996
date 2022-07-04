@@ -2,8 +2,8 @@
 <body>
   <table>
      <tr>
-    <th>23.02</th>
-    <th>23.02</th>
+    <strong>Personal statistic</strong>
+    <th>Activity</th>
   </tr>
 
 <td>
